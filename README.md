@@ -1,6 +1,5 @@
-# elzanefrans-portfolio
 
-# ____Elzane Frans's' digital portfolio - PRP3____#
+# ____Elzane Frans's' digital portfolio - PRP3____
 
 Welcome to my digital portfolio for Project Presentation 3 at CPUT.
 
