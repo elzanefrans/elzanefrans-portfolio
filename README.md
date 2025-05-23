@@ -4,7 +4,7 @@ Elzane Frans's' digital portfolio - PRP3
 
 Welcome to my digital portfolio for Project Presentation 3 at CPUT.
 
-##Sections
+## Sections
 - [Skills and Interests]
 - [Personality Assessment]
 - [Create a CV]
