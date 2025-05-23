@@ -8,7 +8,7 @@ I completed the Big Five Personality Test and got the following results:
 - Agreeableness: High
 - Neuroticism: Medium
 
-![Big Five Results](images/PersonalityAssessment.png)
+![Big Five Results](images/theBigFiveResults.png)
 
 ## Reflection (STAR)
 **Situation:** I wanted to understand how my personality affects my learning and teamwork style.  
