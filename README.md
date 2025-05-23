@@ -7,7 +7,7 @@ Welcome to my digital portfolio for Project Presentation 3 at CPUT.
 - [Career Counselling](career-counselling.md)
 - [Skills and Interests](skills-interest.md)
 - [Personality Assessment](personality-assessment.md)
-- [Create a CV]
+- [Create a CV](create-cv.md)
 - [CV Submission]
  
 ## About Me
