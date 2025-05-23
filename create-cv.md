@@ -2,7 +2,7 @@
 
 ## Evidence
 I created a professional CV using Microsoft Word and Canva.  
-[Download my CV here](files/Elzane_FransCV(2).pdf)
+[Download my CV here](files/Elzane_FransCV.pdf)
 
 ![CV Screenshot](images/cv-screenshot.png)
 
