@@ -8,7 +8,7 @@ Here are some of my key skills and interests:
 - Soft Skills: Teamwork, Communication, Organization,
 - Interests: App/Wesbite development, web designing, solving technical issues
 
-![Skills Chart or Screenshot of Projects](images/skills-chart.png)
+![Skills Chart or Screenshot of Projects](images/skills-interest.png)
 
 ## Reflection (STAR)
 **Situation:** During my second year, I realized I enjoyed working with code and solving logic problems.  
