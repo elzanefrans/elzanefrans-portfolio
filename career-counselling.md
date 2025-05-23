@@ -1,6 +1,6 @@
 # Career Counselling
 
-![Insert image or upload screenshot here](CareerCounselling-CareerDevelopment.png)
+![Insert image or upload screenshot here](images/CareerCounselling-CareerDevelopment.png)
 
 ## Reflection (Using STAR Technique)
 
